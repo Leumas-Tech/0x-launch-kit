@@ -1,0 +1,4 @@
+node_modules/
+lib/
+postgres/
+docker-compose.yml
